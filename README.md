@@ -1,4 +1,4 @@
-# Accordion-Menu-By-React
+# Avada project
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
@@ -8,14 +8,12 @@
 
 - [Demo Project](https://farahheydari.github.io/avadaProject/)
 
-- Developed by pouria farahani
+- Developed by farah heydari
 
-- Created - 2022-11-26
+- Created - 2025
 
-- Technologies Used - Html , css , js , React.js
-
-- Hooks Used : useState 
+- Technologies Used - Html , css 
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/farah.heydari.dev) and [linkedin](https://www.linkedin.com/in/farah-heydari-9a4737197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
