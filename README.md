@@ -2,9 +2,11 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![viewfinal](https://github.com/user-attachments/assets/ed0f7677-9758-45bb-b800-3ca7102bc7a8)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://github.com/user-attachments/assets/4600ac4c-984d-414b-b4b0-2f109956dacf)
+
+![view final](https://github.com/user-attachments/assets/b00bab7c-ff4b-42ea-b080-e16be584e0ce)
 
 - [Demo Project](https://farahheydari.github.io/avadaProject/)
 
